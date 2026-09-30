@@ -1,0 +1,6 @@
+{
+  "name": "TribalEdu AI - SIH26239 Ministry of Tribal Affairs Scholarship Portal",
+  "description": "AI-Enabled Scholarship & Fellowship Management System for Scheduled Tribes (MoTA) featuring AI Scheme Matchmaker, OCR Document Verification, Predictive Drop-off Analytics, and TriBot Voice Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
